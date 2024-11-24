@@ -1,2 +1,16 @@
-# hotlava-fly-glitch-helper
-Easy double jump fly glitch on hotkey press
+# Hot Lava Fly Glitch Helper
+
+Press G to run glitch.
+
+# Compile
+
+Run `gcc -o helper.exe helper.c`
+
+## Todo
+
+- Config file for hotkey and positions
+- Cleanup (.h, .c)
+
+# About
+
+Made with ♥ by [aaronlyy](https://github.com/aaronlyy)
