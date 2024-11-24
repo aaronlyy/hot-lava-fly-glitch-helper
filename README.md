@@ -2,7 +2,11 @@
 
 Press G to run glitch.
 
-# Compile
+## Download
+
+Latest release: [Download](https://github.com/aaronlyy/hot-lava-fly-glitch-helper/releases/download/v0.1_x64_wqhd/helper.exe)
+
+## Build from source
 
 Run `gcc -o helper.exe helper.c`
 
